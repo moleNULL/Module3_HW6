@@ -3,7 +3,7 @@
                                                           Задача:
 
 класс MessageBox\
-&nbsp;&nbsp;&nbsp;&nbsp;○ Містить метод async void Open()\
+&nbsp;&nbsp;&nbsp;&nbsp;○ Містить метод async Task Open()\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■ Метод пише на екрані повідомлення з текстом, що відкрито вікно\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■ потім чекає 3 секунди\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;■ Після чого пише повідомлення, що вікно було закрито користувачем\
